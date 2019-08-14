@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# others
+.mr.developer.cfg
+bin/
+buildout.cfg
+etc/
+include/
+share/
+src/
+
