@@ -111,4 +111,5 @@ etc/
 include/
 share/
 src/
+local/
 
